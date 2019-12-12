@@ -1,2 +1,2 @@
-# Modelacion1
-Curso modelación y simulación 1, vacaciones diciembre 2019
+# Simulación y Modelación 1
+Tarea 2 laboratorio de modela 1.
